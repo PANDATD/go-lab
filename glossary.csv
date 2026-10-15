@@ -1,0 +1,4 @@
+term,plain meaning,doc link
+package,"A collection of source files declaring functions types and variables that belong together",https://go.dev/ref/spec#Packages
+main package,"The special package that serves as the entry point for a runnable Go program",https://go.dev/ref/spec#Program_execution
+func main,"The function that runs when you execute a Go program; must be in the main package take no arguments and return no value",https://go.dev/ref/spec#Program_execution
